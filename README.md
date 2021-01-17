@@ -13,8 +13,6 @@ I'm a Applied Mathematics and Engineering student studying at Queen's University
 - 📫 How to reach me:
   - Email me at <bryan.c.hoang@gmail.com>
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-c-hoang/)
-  
-- 😄 Pronouns: He/Him
 
 - :computer: Hobbies:
   - Video games
