@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm a Applied Mathematics and Engineering student studying at Queen's University! 
+I'm a 4th year Applied Mathematics and Engineering student studying at Queen's University! 
 
-- 🔭 I'm currently on an internship at [Distributed Compute Labs](https://distributed.computer/), working on building a democratized Distributed Computer!
+<!-- - 🔭 I'm currently on an internship at [Distributed Compute Labs](https://distributed.computer/), working on building a democratized Distributed Computer! -->
 
 - 📫 How to reach me:
   - Email me at <bryan.c.hoang@gmail.com>
