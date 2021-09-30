@@ -26,8 +26,6 @@ I'm a 4th year Applied Mathematics and Engineering student studying at Queen's U
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-hoang&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Bryan Hoang's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-hoang&layout=compact&theme=dark&hide_border=true&hide=lua,assembly,vhdl,vim%20script" alt="Bryan Hoang's top languages" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bryan_hoang&theme=dark&layout=compact" alt="Bryan Hoang's Wakatime stats" />
