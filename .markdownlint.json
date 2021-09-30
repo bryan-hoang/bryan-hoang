@@ -2,6 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/markdownlint-config-schema.json",
   "line-length": false,
   "no-inline-html": {
-    "allowed_elements": ["a", "img", "code"]
+    "allowed_elements": ["a", "img", "code", "p"]
   }
 }
