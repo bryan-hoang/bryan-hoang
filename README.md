@@ -23,12 +23,12 @@ I'm a 4th year Applied Mathematics and Engineering student studying at Queen's U
 
 ## Statistics
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-hoang&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Bryan Hoang's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-hoang&layout=compact&theme=dark&hide_border=true&hide=lua,assembly,vhdl,vim%20script" alt="Bryan Hoang's top languages" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-hoang&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Bryan Hoang's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-hoang&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=lua,assembly,vhdl,vim%20script,c%23" alt="Bryan Hoang's most used languages" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bryan_hoang&theme=dark&layout=compact" alt="Bryan Hoang's Wakatime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bryan_hoang&theme=dark&layout=compact&range=last_7_days&custom_title=Wakatime%20Stats%20%28Last%207%20Days%29" alt="Bryan Hoang's Wakatime stats in the last 7 days" />
   </a>
 </p>
 
