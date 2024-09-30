@@ -4,8 +4,6 @@
 
 ## About me
 
-- 🔭 I'm currently working at [Distributive](https://distributed.computer/), working on building a democratized Distributed Computer!
-
 - :computer: Hobbies:
 
   - Video games
