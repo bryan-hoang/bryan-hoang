@@ -7,6 +7,7 @@
 - :computer: Hobbies:
 
   - Video games
+  - Euchre
   - Dungeons and Dragons
   - Anime
 
