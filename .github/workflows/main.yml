@@ -13,11 +13,11 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
       - name: Markdown Linting Action
         # You may pin to the exact commit or the version.
         # uses: avto-dev/markdown-lint@04d43ee9191307b50935a753da3b775ab695eceb
-        uses: avto-dev/markdown-lint@v1.5.0
+        uses: avto-dev/markdown-lint@04d43ee9191307b50935a753da3b775ab695eceb # v1.5.0
         with:
           # Files (directories|globs) for a work or any additional arguments
           args: README.md
